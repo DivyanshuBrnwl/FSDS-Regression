@@ -1,0 +1,15 @@
+[2024-01-06 14:29:34,764] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-01-06 14:29:34,790] 96 werkzeug - INFO -  * Debugger PIN: 977-479-793
+[2024-01-06 14:29:36,039] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:29:36] "GET /predict HTTP/1.1" 200 -
+[2024-01-06 14:29:48,015] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:29:48] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-01-06 14:29:48,065] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:29:48] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-01-06 14:29:48,065] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:29:48] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-01-06 14:29:48,162] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:29:48] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-01-06 14:29:48,188] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:29:48] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-06 14:30:12,724] 65 root - INFO - Exception occured in production pipelin
+[2024-01-06 14:30:12,768] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:30:12] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-01-06 14:30:12,803] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:30:12] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-01-06 14:30:12,815] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:30:12] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-01-06 14:30:12,856] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:30:12] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-06 14:30:12,882] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:30:12] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-06 14:32:53,302] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\kumar\\houseprice\\src\\pipeline\\prediction_pipeline.py', reloading

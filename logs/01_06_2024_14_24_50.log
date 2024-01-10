@@ -1,0 +1,26 @@
+[2024-01-06 14:24:53,539] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-01-06 14:24:53,577] 96 werkzeug - INFO -  * Debugger PIN: 977-479-793
+[2024-01-06 14:26:13,326] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:26:13] "GET / HTTP/1.1" 200 -
+[2024-01-06 14:26:21,970] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:26:21] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:02,701] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:02] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:03,349] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:03] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:03,552] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:03] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:03,718] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:03] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:03,888] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:03] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:04,062] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:04] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:04,201] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:04] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:04,347] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:04] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:04,501] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:04] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:04,720] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:04] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:05,067] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:05] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:05,244] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:05] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:05,415] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:05] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:05,608] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:05] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:05,797] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:05] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:05,967] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:05] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:06,131] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:06] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:06,303] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:06] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:06,461] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:06] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:06,631] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:06] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:27:06,849] 96 werkzeug - INFO - 127.0.0.1 - - [06/Jan/2024 14:27:06] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-01-06 14:28:34,437] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\kumar\\houseprice\\app.py', reloading

@@ -1,0 +1,10 @@
+[2024-01-07 12:02:57,061] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-01-07 12:02:57,092] 96 werkzeug - INFO -  * Debugger PIN: 977-479-793
+[2024-01-07 12:03:00,157] 61 root - INFO - Dataframe Gathered
+[2024-01-07 12:03:00,426] 28 root - INFO - Exception occured in prediction
+[2024-01-07 12:03:00,554] 96 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 12:03:00] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-01-07 12:03:00,618] 96 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 12:03:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-01-07 12:03:00,620] 96 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 12:03:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-01-07 12:03:00,741] 96 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 12:03:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-07 12:03:00,790] 96 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 12:03:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-07 13:18:54,648] 96 werkzeug - INFO -  * Detected change in 'c:\\users\\kumar\\houseprice\\src\\components\\data_ingestion.py', reloading
